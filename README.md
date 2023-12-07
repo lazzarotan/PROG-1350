@@ -1,3 +1,3 @@
-*I am creating a read me*
+# PROG1350
 
-_this is very important to the assignment I believe_
+### A repository containing the architectural design diagram and the user interface diagrams for xyzmovies.com.
